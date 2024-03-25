@@ -1,0 +1,63 @@
+.maindiv{
+    background-color:#49345e;
+    color: white;
+}
+
+.subdiv{
+    text-align: center;
+}
+
+/* .move{
+    text-align: right;
+    margin-bottom: 3rem;
+}
+
+.piv{
+    margin-right: 17rem;
+}
+.move1{
+    text-align: center;
+} */
+
+.one{
+    display: flex;
+   justify-content: center;
+}
+.move{
+    margin-left: 6rem;
+}
+
+.piv{
+    padding-top: 3rem;
+}
+.bro{
+    margin-left: 15rem;
+}
+.piv1{
+    padding-top: 16rem;
+}
+.bro1{
+    margin-left: 15rem;
+}
+
+.move2{
+    margin-left: 5rem;
+}
+
+.up{
+    padding-top: 3rem;
+}
+.down{
+    padding-top: 15rem;
+}
+
+.left {
+    margin-left: 2rem;
+
+}
+.right{
+    margin-left: 2rem;
+}
+.mid{
+    text-align: center;
+}

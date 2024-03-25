@@ -1,0 +1,38 @@
+.onee{
+    text-align: center;
+}
+.pia{
+    margin-left: 2rem;
+}
+
+.twoo{
+    display: flex;
+   justify-content:space-between;
+    margin-top: 2rem;
+}
+.picc1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.picc{
+    display: flex;
+    margin-left: 3.4rem;
+}
+.piccc{
+    margin-left: 4rem;
+}
+
+.lexx{
+    margin-right: 15rem;
+}
+
+.lexxx{
+    margin-right: 3rem;
+    margin-bottom:6rem;
+}
+.twoof2{
+    margin-left: 15rem;
+    margin-top: 12.5rem;
+} 

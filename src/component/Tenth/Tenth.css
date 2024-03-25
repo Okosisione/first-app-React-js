@@ -1,0 +1,25 @@
+.boss{
+    background-color:#011012;
+    color: white;
+}
+.off{
+    padding: 6rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.soca{
+    margin-left: 1rem;
+}
+form .help, .bot{
+    background-color:rgb(22, 121, 139) ;
+    color: white;
+    font-size: 17px;
+    border-left: none;
+    cursor: pointer;
+    height: 17px;
+}
+
+
+
+  

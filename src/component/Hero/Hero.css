@@ -1,0 +1,47 @@
+ body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.base{
+background-color:#49345e ;
+margin-top: -50px;
+padding: 1rem;
+width: 100%;
+}
+.base1{
+    display: flex;
+    margin-left: 7rem;
+    padding: 3rem;
+}
+.base2{
+    text-align: center;
+    color: white;
+    padding-top: -2rem;  
+}
+
+.pic1{
+ margin-left: 5rem;   
+}
+
+
+.pic2{
+    margin-left: 18rem;
+}
+
+@media screen and (max-width: 600px) {
+    .base{
+      width: 100%;
+    }
+    .base1{
+         flex-wrap: wrap;
+         width: 100%;
+        float: none;
+        }
+ body{
+    display: block;
+    width: 100%;
+}   
+}
+     

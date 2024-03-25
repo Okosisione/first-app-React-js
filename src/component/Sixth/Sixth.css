@@ -1,0 +1,25 @@
+.house{
+    background-color:#49345e ;
+    color: white;
+    padding-bottom: 8rem;
+   
+}
+
+.homie{
+    text-align: center;
+    position: relative;
+    padding: 1rem;
+}
+
+
+.image-con{
+    text-align: center;
+}
+
+.viiic {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0%;
+}

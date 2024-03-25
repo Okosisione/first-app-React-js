@@ -1,0 +1,14 @@
+.blog{
+    display: flex;
+    width: 100%;
+}
+
+
+/* in your media query you display block */
+
+
+ /* @media screen and (min-width: 1065px){
+    .blog{
+        display: flex;
+    }
+}  */

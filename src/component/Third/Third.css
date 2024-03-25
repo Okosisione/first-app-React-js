@@ -1,0 +1,30 @@
+.office{
+    display: flex;
+    margin-left:10rem ;
+    padding: 3rem;
+}
+
+
+
+.desk11{
+     display: flex ;
+     margin-left: 9rem; 
+     /* align-items: start; */
+    
+}
+.eat{
+    padding: 1rem;
+    
+}
+
+.drinks{
+    margin-left: -3rem;
+}
+
+ /* .desk3{
+    display: flex;
+}  */
+
+
+
+
