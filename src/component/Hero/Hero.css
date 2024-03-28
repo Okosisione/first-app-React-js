@@ -9,20 +9,27 @@ background-color:#49345e ;
 margin-top: -50px;
 padding: 1rem;
 width: 100%;
+/* background-color: blue; */
 }
+
 .base1{
     display: flex;
-    margin-left: 7rem;
+    margin-left: -7rem;
     padding: 3rem;
+    background-color: antiquewhite;
 }
+
 .base2{
     text-align: center;
     color: white;
     padding-top: -2rem;  
+    /* background-color: aquamarine; */
 }
 
 .pic1{
- margin-left: 5rem;   
+ margin-left: 5rem;
+ width: 40%;   
+ 
 }
 
 
@@ -30,18 +37,20 @@ width: 100%;
     margin-left: 18rem;
 }
 
-@media screen and (max-width: 600px) {
+.shif{
+    margin-left: 1rem;
+}
+
+/* @media screen and (max-width:600px) {
     .base{
       width: 100%;
     }
     .base1{
-         flex-wrap: wrap;
-         width: 100%;
+         flex-wrap: wrap; 
+        
         float: none;
         }
- body{
-    display: block;
-    width: 100%;
-}   
-}
-     
+        .pic2{
+            margin-left: 7rem;
+        }
+    } */

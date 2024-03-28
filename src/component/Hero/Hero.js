@@ -7,7 +7,7 @@ function Hero(){
   <div className="base">
     <div className="base1">
       <div className="pic1">
-      <img src={tochi} alt="tochi" width={320}/>
+      <img className="shif" src={tochi} alt="tochi" width={320}/>
       </div>
       <div className="pic2">
           <img src={mos} width={420}/>
